@@ -3099,7 +3099,7 @@ c(
                 BorderActiveTransparency = 0,
                 WindowBgColor = Color3.fromRGB(15, 15, 15),
                 WindowBgTransparency = 0.072,
-                ScrollbarGrabColor = Color3.fromRGB(128, 128, 128),
+                ScrollbarGrabColor = Color3.fromRGB(140, 71, 196),
                 ScrollbarGrabTransparency = 0,
                 TitleBgColor = Color3.fromRGB(10, 10, 10),
                 TitleBgTransparency = 0,
@@ -3143,7 +3143,7 @@ c(
                 NavWindowingDimBgTransparency = 0.65,
                 SeparatorColor = Color3.fromRGB(110, 110, 128),
                 SeparatorTransparency = 0.5,
-                CheckMarkColor = Color3.fromRGB(66, 150, 250),
+                CheckMarkColor = Color3.fromRGB(201, 66, 250),
                 CheckMarkTransparency = 0
             },
             colorLight = {
@@ -3217,8 +3217,8 @@ c(
                 FrameBorderSize = 0,
                 FrameRounding = 0,
                 WindowBorderSize = 1,
-                WindowTitleAlign = Enum.LeftRight.Left,
-                ScrollbarSize = 7
+                WindowTitleAlign = Enum.LeftRight.Center,
+                ScrollbarSize = 6
             },
             sizeClear = {
                 ItemWidth = UDim.new(1, 0),
